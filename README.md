@@ -57,7 +57,7 @@ Make your sure you fill in the `submission.md` before submitting. Once you have 
 
 ## Browser Support
 
-For all our clients we support the following browsers:
+Assessment should work in the following browsers.
 
 1. Google Chrome
 2. Firefox
