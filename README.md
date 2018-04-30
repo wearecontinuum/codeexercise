@@ -16,7 +16,9 @@ The concepts below relate to each part of the exercise. When submitting the exer
 
 Exercise One:
 
-.....
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 
 Exercise Two:
 
@@ -34,7 +36,7 @@ Exercise Three:
 2. The code should be fully tested for all contexts (Mobile, Tablet & Desktops), see browser list below.
 3. Validate all the code written using https://validator.w3.org/
 4. Make sure to focus on writing clean code and reusalble code.
-5. In the submission files a single html, css and javascript is to be submitted.
+5. Submission files should be single html, css and javascript.
 6. If you get stuck at any part don't worry get through as much of it as you can.
 6. Make sure to fill in the `submission.md` and answer the questions.
 
