@@ -22,12 +22,14 @@ Create this blockquote in HTML and CSS only, there should be **no** Javascript u
 ### Exercise Two:
 
 Create this screenshot in valid HTML/CSS, you should use Bootstrap for layout, fontawesome for icons. There is no need to make the search functional. The slider should slide through 3 sliders in an infinte loop.
+
 ![Exercise Two](https://github.com/wearecontinuum/codeexercise/blob/master/concepts/exercise-2.jpg)
 
 
 ### Exercise Three:
 
 Create this counter using Javascript, feel free to use a plugin to do this. The focus for this exercise is the function over design.
+
 ![Exercise Three](https://github.com/wearecontinuum/codeexercise/blob/master/concepts/exercise-3.jpg)
 
 
