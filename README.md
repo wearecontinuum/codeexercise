@@ -21,7 +21,7 @@ Create this blockquote in HTML and CSS only, there should be **no** Javascript u
 
 ### Exercise Two:
 
-Create this screenshot in valid HTML/CSS, you should use Bootstrap for layout, fontawesome for icons. There is no need to make the search functional. The slider should slide through 3 sliders in an infinte loop.
+Create this screenshot in valid HTML/CSS, you should use Bootstrap for layout, fontawesome for icons. There is no need to make the search functional. The slider should slide through 3 slides in an infinte loop.
 
 ![Exercise Two](https://github.com/wearecontinuum/codeexercise/blob/master/concepts/exercise-2.jpg)
 
@@ -35,23 +35,23 @@ Create this counter using Javascript, feel free to use a plugin to do this. The 
 
 ## Requirments
 
-1. All HTML, CSS, SCSS & Javascript should be well commented and comments should make sense to a non technical person reading the comments.
+1. All HTML, CSS, & Javascript should be well commented and comments should make sense to a non technical person reading the comments.
 2. The code should be fully tested for all contexts (Mobile, Tablet & Desktops), see browser list below.
 3. Validate all the code written using https://validator.w3.org/
 4. Make sure to focus on writing clean code and reusalble code.
-5. Submission files should be single html, css and javascript.
+5. When submitting create a separe folder for each exercise in the format of: **exercise-one** etc...
 6. If you get stuck at any part don't worry get through as much of it as you can.
 6. Make sure to fill in the `submission.md` and answer the questions.
 
 
 ## Bonus
 
-If you would like to add some exercise spice to the completed exercise try some of the below suggestions.
+If you would like to add some extra spice to the completed exercise try some of the below suggestions.
 **Note** this is optional so dont feel like you need to do them if you run out of time.
 
 1. Use a build tool to create the end solutions (e.g. gulp)
-2. Write Javascript in ES6
-3. CSS3 animations
+2. Write the CSS using SCSS
+3. Write any Javascript function in ES6
 
 
 ## Submission
