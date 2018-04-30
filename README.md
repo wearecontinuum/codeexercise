@@ -4,7 +4,7 @@
 
 1. The assessment is split into three exercises, try to fully complete each part but if you get stuck move on to the next part and note any areas you got stuck with in the `submission.md`.
 2. The prefered framework to be used is Bootstrap Version 4 (https://getbootstrap.com/)
-3. Where Javascript is required you are free to write in vanilla Javascript or use jQUery or similar frameworks.
+3. Where Javascript is required you are free to write in vanilla Javascript or use jQuery or similar frameworks.
 4. The completed code should match the concepts below as much as possible, we understand there may be differences between the font used in the concept and the font file and this is ok.
 5. If you have any questions about the assessment please email before you start.
 6. We would like to see how it takes to complete the assessment so please use this timing tool (https://toggl.com/)
