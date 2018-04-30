@@ -7,7 +7,7 @@
 3. Where Javascript is required you are free to write in vanilla Javascript or use jQuery or similar frameworks.
 4. The completed code should match the concepts below as much as possible, we understand there may be differences between the font used in the concept and the font file and this is ok.
 5. If you have any questions about the assessment please email before you start.
-6. We would like to see how it takes to complete the assessment so please use this timing tool (https://toggl.com/)
+6. We would like to see how long it takes to complete the assessment so please use this timing tool (https://toggl.com/) and record your time for each exercise.
 
 
 ## Concepts
