@@ -16,17 +16,9 @@ The concepts below relate to each part of the exercise. When submitting the exer
 
 Exercise One:
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Exercise One](https://github.com/wearecontinuum/codeexercise/blob/master/concepts/exercise-1.png)
 
 
-Exercise Two:
-
-.......
-
-Exercise Three:
-
-......
 
 
 
