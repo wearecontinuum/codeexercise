@@ -35,7 +35,7 @@ Create this counter using Javascript, feel free to use a plugin to do this. The 
 ![Exercise Three](https://github.com/wearecontinuum/codeexercise/blob/master/concepts/exercise-3.jpg)
 
 
-## Requirments
+## Requirements
 
 1. All HTML, CSS, & Javascript should be well commented and comments should be written in a non-technical manner.
 2. The code should be fully tested for all contexts (Mobile, Tablet & Desktops), see browser list below.
