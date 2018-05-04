@@ -1,10 +1,11 @@
 # Continuum - Frontend Coding Assessment
 
-## Introduction
+## Brief
 
 1. The assessment is split into three exercises, try to fully complete each part but if you get stuck move on to the next part and note any areas you got stuck with in the `submission.md`.
 2. The prefered framework to be used is Bootstrap Version 4 (https://getbootstrap.com/)
 3. All icons used should be from font awesome (https://fontawesome.com/)
+4. In terms of fonts feel free to use the font of your choice in the exercises mention in `submission.md` how you used the font.
 4. Where Javascript is required you are free to write in vanilla Javascript or use jQuery or similar frameworks.
 5. The completed code should match the concepts below as much as possible, we understand there may be differences between the font used in the concept and the font file and this is ok.
 6. If you have any questions about the assessment please email before you start.
