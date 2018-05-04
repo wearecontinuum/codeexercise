@@ -37,11 +37,11 @@ Create this counter using Javascript, feel free to use a plugin to do this. The 
 
 ## Requirments
 
-1. All HTML, CSS, & Javascript should be well commented and comments should make sense to a non technical person reading the comments.
+1. All HTML, CSS, & Javascript should be well commented and comments should be written in a non-technical manner.
 2. The code should be fully tested for all contexts (Mobile, Tablet & Desktops), see browser list below.
 3. Validate all the code written using https://validator.w3.org/
-4. Make sure to focus on writing clean code and reusalble code.
-5. When submitting create a separe folder for each exercise in the format of: **exercise-one** etc...
+4. Make sure to focus on writing clean code and reusable code.
+5. When submitting task create a separte folder for each exercise in the format of: **exercise-one** etc...
 6. If you get stuck at any part don't worry get through as much of it as you can.
 6. Make sure to fill in the `submission.md` and answer the questions.
 
@@ -58,7 +58,9 @@ If you would like to add some extra spice to the completed exercise try some of 
 
 ## Submission
 
-Make your sure you fill in the `submission.md` before submitting. Once you have completed the exercise you can email a) a link to your GitHub repo or b) zip of the exercise.
+Make sure you fill in the `submission.md` before submitting. Once you have completed the exercise you can email a) a link to your GitHub repo or b) zip of the exercise.
+
+You can can forward the zip file to careers@wearecontinuum.com
 
 
 
@@ -71,4 +73,6 @@ Assessment should work in the following browsers.
 3. Opera
 4. Internet Explorer 11
 4. Microsoft Edge
+
+## Finally best of luck!
 
