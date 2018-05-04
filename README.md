@@ -41,8 +41,8 @@ Create this counter using Javascript, feel free to use a plugin to do this. The 
 2. The code should be fully tested for all contexts (Mobile, Tablet & Desktops), see browser list below.
 3. Validate all the code written using https://validator.w3.org/
 4. Make sure to focus on writing clean code and reusable code.
-5. When submitting task create a separte folder for each exercise in the format of: **exercise-one** etc...
-6. If you get stuck at any part don't worry get through as much of it as you can.
+5. When submitting the task please create a separate folder for each exercise in the format of: **exercise-one** etc...
+6. If you get stuck at any part don't worry and get through as much of it as you can.
 6. Make sure to fill in the `submission.md` and answer the questions.
 
 
@@ -66,7 +66,7 @@ You can can forward the zip file to careers@wearecontinuum.com
 
 ## Browser Support
 
-Assessment should work in the following browsers.
+The assignment should work in the following browsers.
 
 1. Google Chrome
 2. Firefox
